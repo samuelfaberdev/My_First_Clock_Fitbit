@@ -1,6 +1,6 @@
 {
-  "name": "jolly-sanji-os5",
-  "version": "1.0.2",
+  "name": "jolly-sanji-cheshire-os5",
+  "version": "1.0.4",
   "private": true,
   "license": "UNLICENSED",
   "devDependencies": {
@@ -10,7 +10,7 @@
   "fitbit": {
     "appUUID": "938250dc-7912-48dc-80cb-e1da5c0e6f24",
     "appType": "clockface",
-    "appDisplayName": "Jolly Roger - Sanji",
+    "appDisplayName": "Jolly Roger - Sanji X Cheshire",
     "iconFile": "resources/icon.png",
     "wipeColor": "#ffffff",
     "requestedPermissions": [
