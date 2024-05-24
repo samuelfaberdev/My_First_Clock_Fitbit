@@ -1,5 +1,5 @@
 {
-  "name": "jolly-roger-os5",
+  "name": "jolly-sanji-os5",
   "version": "1.0.2",
   "private": true,
   "license": "UNLICENSED",
@@ -10,7 +10,7 @@
   "fitbit": {
     "appUUID": "938250dc-7912-48dc-80cb-e1da5c0e6f24",
     "appType": "clockface",
-    "appDisplayName": "Jolly Roger",
+    "appDisplayName": "Jolly Roger - Sanji",
     "iconFile": "resources/icon.png",
     "wipeColor": "#ffffff",
     "requestedPermissions": [
