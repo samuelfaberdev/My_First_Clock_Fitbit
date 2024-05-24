@@ -5,7 +5,7 @@
   <text id="txtDate" class="date-text">01 Janvier</text>
   <text id="txtJour" class="date-text">Samedi</text>
   <image id="luffy" href="images/jolly_roger_luffy.png" />
-  <image id="newgate" href="images/jolly_roger_newgate.png" />
+  <image id="sanji" href="images/sanji.png" />
   <svg class="stats">
     <use id="iconHRM" href="#heart-beat" />
     <text id="txtHRM" class="stat-left" />
